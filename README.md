@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 ### 나를 소개하는 한 문장
-[![Static Badge](https://img.shields.io/badge/Email-03C75A?Style=flat-square&logo=Naver&logoColor=white)]
-(mailto:yi10286@gmail.com)
+[![Static Badge](https://img.shields.io/badge/Email-03C75A?Style=flat-square&logo=Naver&logoColor=white)](mailto:yi10286@gmail.com)
 ![views](https://gh-hits.nomadcoders.workers.dev/view?username=leejihun)
 
 
@@ -37,13 +36,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=Lee&nbsp;ji&nbsp;hun&fontSize=70&animation=twinkling)
 <br>
-![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 
 <!--
